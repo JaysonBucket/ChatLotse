@@ -17,6 +17,7 @@ Issues, comments, recommondations? Let my know. Thanks for your contribution!
 - to make interaction more engaging the agent also thows a random historic event that happened on the current day
 
 ## Remarks
+- sources currently only available in German - but feel free to translate - also possible to ask the agent to please change to your preferred language and it does so
 - as the instructions are simple - feel free to adapt as needed to meet your orgs needs (best: use simple mathematical actions for this to make sure it works properly)
 - as you are going to set up a solely web grounded, declarative only agent it should work free of charge even without M365 Copilot license (no guarantees, see complementary links below)
 - the agent solely uses already available M365 Copilot Chat functionality - nothing added - nothing worked through
@@ -29,6 +30,7 @@ Issues, comments, recommondations? Let my know. Thanks for your contribution!
 - _Name_ the agent (be creative, your users should enjoy the interaction)
 - Enter your agent _description_ (sample within the source document)
 - copy the _agent body_ part of the sourcefile (or your adjusted version) into the instruction space
+- copy the _start / sample messages_ into the corresponding place
 - make it fun, give it a nice _icon_ people will love
 - click _create_
 - have a first _testrun_ and share with a limited amount of people
