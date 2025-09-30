@@ -12,6 +12,11 @@ Issues, comments, recommondations? Let me know. Thanks for your contribution!
 
 ![Screenshot of the agent start screen showing the options for interactions such as free text or defined options like starting the prompt of the day.](https://github.com/JaysonBucket/ChatLotse/blob/main/Screenshot%20Startscreen.jpg)
 
+once triggered, the daily flow starts
+
+![Screenshot of the agent showing the prompt of the day.](https://github.com/JaysonBucket/ChatLotse/blob/main/Screenshot%20Daily%20Flow%20example.jpg)  
+
+
 ## About
 - this repository contains the necessary sources to create a declarative agent for Copilot Chat which delivers example prompts to users for one month (31 days)
 - every single day is stuffed with a topic and a prompt example
