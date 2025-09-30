@@ -1,18 +1,22 @@
 # Chatlotse ✌️
  30.09.2025
 
-Source: https://github.com/JaysonBucket/ChatLotse \
-License: https://github.com/JaysonBucket/ChatLotse#GPL-3.0-1-ov-file
+Source: https://github.com/JaysonBucket/ChatLotse  
+License: https://github.com/JaysonBucket/ChatLotse#GPL-3.0-1-ov-file  
 
-## Make a difference 💡
-- set priority on accessibility - workplace AI can really make a difference
+Make a difference - set priority on accessibility - Workplace AI can help 💡
 - check out these clips on real life accessibility stories: https://www.youtube.com/playlist?list=PLtSVUgxIo6KokE3TjZBv0-blYRzAFWTFt
 - accessibility tools in M365 Copilot: https://support.microsoft.com/en-gb/topic/accessibility-tools-for-microsoft-copilot-5d106884-844b-4ce8-acfb-4d7a48dac618
+
+Issues, comments, recommondations? Let my know. Thanks for your contribution!
 
 ## About
 - this repository contains the necessary sources to create a declarative agent for Copilot Chat which delivers example prompts to users for one month (31 days)
 - every single day is stuffed with a topic and a prompt example
 - current instruction is meant to work from 1st until last day of a month - ending in a fabulous final including the creation of a medal 🏅
+- to make interaction more engaging the agent also thows a random historic event that happened on the current day
+
+## Remarks
 - as the instructions are simple - feel free to adapt as needed to meet your orgs needs (best: use simple mathematical actions for this to make sure it works properly)
 - as you are going to set up a solely web grounded, declarative only agent it should work free of charge even without M365 Copilot license (no guarantees, see complementary links below)
 - the agent solely uses already available M365 Copilot Chat functionality - nothing added - nothing worked through
