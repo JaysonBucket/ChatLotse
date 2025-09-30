@@ -1,4 +1,4 @@
-# Coilot Chat Lotse ✌️
+# Copilot Chat Lotse ✌️
  30.09.2025
 
 Source: https://github.com/JaysonBucket/ChatLotse  
