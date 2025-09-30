@@ -14,7 +14,9 @@ License: https://github.com/JaysonBucket/ChatLotse#GPL-3.0-1-ov-file
 - every single day is stuffed with a topic and a prompt example
 - current instruction is meant to work from 1st until last day of a month - ending in a fabulous final including the creation of a medal 🏅
 - as the instructions are simple - feel free to adapt as needed to meet your orgs needs (best: use simple mathematical actions for this to make sure it works properly)
-- as you are going to set up a solely web grounded, declarative only, agent it should work free of charge even without M365 Copilot license (no guarantees, see complementary links below)
+- as you are going to set up a solely web grounded, declarative only agent it should work free of charge even without M365 Copilot license (no guarantees, see complementary links below)
+- the agent solely uses already available M365 Copilot Chat functionality - nothing added - nothing worked through
+- as no internal information is being worked with - only the instructions and web information - there shouldn't be any demands around addtl. data protection or works council approval (no guarantte, make sure to involve everyone needed timely and fair)
 
 ## Howto
 - _download_ the sourcefile
