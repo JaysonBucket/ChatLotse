@@ -8,7 +8,9 @@ Make a difference - set priority on accessibility - Workplace AI can help 💡
 - check out these clips on real life accessibility stories: https://www.youtube.com/playlist?list=PLtSVUgxIo6KokE3TjZBv0-blYRzAFWTFt
 - accessibility tools in M365 Copilot: https://support.microsoft.com/en-gb/topic/accessibility-tools-for-microsoft-copilot-5d106884-844b-4ce8-acfb-4d7a48dac618
 
-Issues, comments, recommondations? Let my know. Thanks for your contribution!
+Issues, comments, recommondations? Let me know. Thanks for your contribution!
+
+![Screenshot of the agent start screen showing the options for interactions such as free text or defined options like starting the prompt of the day.](https://github.com/JaysonBucket/ChatLotse/blob/main/Screenshot%20Startscreen.jpg)
 
 ## About
 - this repository contains the necessary sources to create a declarative agent for Copilot Chat which delivers example prompts to users for one month (31 days)
