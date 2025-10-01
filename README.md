@@ -1,5 +1,5 @@
-# Copilot Chat Lotse ✌️
- 30.09.2025
+# Copilot Chat Navigator / Lotse ✌️
+Revision 01.10.2025 - added english language agent source
 
 Source: https://github.com/JaysonBucket/ChatLotse  
 License: https://github.com/JaysonBucket/ChatLotse#GPL-3.0-1-ov-file  
