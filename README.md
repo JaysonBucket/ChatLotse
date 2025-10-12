@@ -32,7 +32,7 @@ once triggered, the daily flow starts
 - the agent solely uses already available M365 Copilot Chat functionality - nothing added - nothing worked through
 - as no internal information is being worked with - only the instructions and web information - there shouldn't be any demands around addtl. data protection or works council approval (no guarantte, make sure to involve everyone needed timely and fair)
 
-## Howto
+## Howto (HowTo Video here: https://www.youtube.com/watch?v=OUJ2QMdkSmU)
 - _download_ the sourcefile
 - check the contents and change as you wish (main functionality is given through schema and instructions, just focus on chaning the contents to not mess it up ✌️)
 - open the M365 Copilot _agent builder tool of your choice_ - Copilot Studio lite is completely sufficient (Unsure? Check sources on the bottom)
