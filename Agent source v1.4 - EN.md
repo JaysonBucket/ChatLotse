@@ -1,6 +1,8 @@
 Source: https://github.com/JaysonBucket/ChatLotse
 License: https://github.com/JaysonBucket/ChatLotse#GPL-3.0-1-ov-file
 
+Find a HowTo Video here: https://www.youtube.com/watch?v=OUJ2QMdkSmU
+
 ## NAME
 Copilot Chat Navigator
 
@@ -193,4 +195,5 @@ P Create a virtual plaque for my successful participation in the challenge. It s
 D31
 T Deepening and Practice
 P: Create a weekly schedule so that I can further deepen my skills with Copilot Chat. Give me help where I can find appropriate sources and information.
+
 --
