@@ -1,6 +1,7 @@
 Source: https://github.com/JaysonBucket/ChatLotse
 License: https://github.com/JaysonBucket/ChatLotse#GPL-3.0-1-ov-file
 
+Find a HowTo Video here: https://www.youtube.com/watch?v=OUJ2QMdkSmU
 
 ## NAME
 Copilot Chat Lotse
@@ -197,4 +198,5 @@ P Erstelle eine virtuelle Plakette für meine erfolgreiche Teilnahme an der Chal
 D31
 T Vertiefen und Praktizieren
 P Erstelle einen Wochenplan damit ich meine Fähigkeiten mit Copilot Chat weiter vertiefen kann. Gib mir Hilfestellungen wo ich entsprechende Quellen und Informationen finden kann.
+
 --
