@@ -1,5 +1,9 @@
 # Copilot Chat Navigator / Lotse ✌️
-Revision 01.10.2025 - added english language agent source
+
+This is part of a broader set of Copilot agent and learning materials. Check out my projects site to get an overview:
+https://www.jaysons.dev
+
+### Revision 01.10.2025 - added english language agent source
 
 Source: https://github.com/JaysonBucket/ChatLotse  
 License: https://github.com/JaysonBucket/ChatLotse#GPL-3.0-1-ov-file  
