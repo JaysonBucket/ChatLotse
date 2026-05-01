@@ -6,7 +6,7 @@ https://www.jaysons.dev
 ### Revision 01.10.2025 - added english language agent source
 
 Source: https://github.com/JaysonBucket/ChatLotse  
-License: https://github.com/JaysonBucket/ChatLotse#GPL-3.0-1-ov-file  
+License: MIT  
 
 Find a HowTo Video here: https://www.youtube.com/watch?v=OUJ2QMdkSmU
 
