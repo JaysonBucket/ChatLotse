@@ -1,3 +1,5 @@
+[back home](https://github.com/JaysonBucket)  
+
 # Copilot Chat Navigator / Lotse ✌️
 
 This is part of a broader set of Copilot agent and learning materials. Check out my projects site to get an overview:
